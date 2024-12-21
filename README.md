@@ -1,1 +1,0 @@
-# ThriftStore2.0
